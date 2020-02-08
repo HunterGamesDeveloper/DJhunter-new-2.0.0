@@ -1,6 +1,6 @@
 {
-    "start": "java -jar JMusicBot-0.2.6.jar",
-    "watch": {
-      "throttle": 100
-    }
+  "start": "java -jar JMusicBot-0.2.6.jar",
+  "watch": {
+    "throttle": 100
   }
+}
